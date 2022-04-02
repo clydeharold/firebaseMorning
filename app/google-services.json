@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195996511024",
+    "project_id": "fir-morning-e631c",
+    "storage_bucket": "fir-morning-e631c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195996511024:android:c8cf6078f43cd33ef9f6f5",
+        "android_client_info": {
+          "package_name": "com.example.firebasemorning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195996511024-fkmp9sf1mlvkqo21jajflmqom48sknim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0xyXlG5PzDbK32ruWe1BI1T7Y2wU2b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195996511024-fkmp9sf1mlvkqo21jajflmqom48sknim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
